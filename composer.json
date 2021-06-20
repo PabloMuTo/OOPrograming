@@ -1,0 +1,16 @@
+{
+    "authors": [
+        {
+            "name": "Pablo Muñoz",
+            "email": "pablo.mu.to@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9"
+    },
+    "autoload":{
+        "psr-4": {
+            "OOProgramming\\": ""
+        }
+    }
+}
